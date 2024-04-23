@@ -1,52 +1,56 @@
+
+LUCIANA SOMARIVA <luciana.somariva@escola.pr.gov.br>
+12:12 (há 0 minuto)
+para mim
+
 *{
-   padding: 0;
-   margin: 0;
+    padding: 0;
+    margin: 0;
 }
 header{
-
-   background-color: #383D58;
-   color: white;
-   display: flex;
-   justify-content: space-around;
-   align-items: center;
-   padding: 24px 0;
+background-color:#383D58;
+color: white;
+display: flex;
+justify-content: space-around;
+align-items: center;
+padding: 24px 0;
 }
+.cabeçalho-imagem{
+     width: 18%;
 
-   .cabeçalho-imagem{
-       width: 18%;
 }
-
 .cabeçalho-lista-item{
-   display: inline-block;
-   margin: 0 16px;
-   font-size: 24px;
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 24px;
 }
-
 .escola-imagem{
-width: 25%;
-}
+    width: 25%;
 
+}
 .escola{
-   background-image: linear-gradient(,#4EBFE9);
+background-image: linear-gradient(#383D58,#4EBFE9);
 color: white;
 display: flex;
 justify-content: center;
 align-items: center;
 padding: 24px 0;
-}
 
+}
 .escola-div-conteudo{
-   width: 35%;
+width: 35%;
 }
 
 .escola-titulo{
-   padding: 24px 0;
+ padding: 24px 0;   
 }
-.escola-titulo-um{
-   padding: 24px 0;
-   font-size: 24px;
+
+.escola-texto-um{
+ padding: 24px 0; 
+ font-size: 24px;  
 }
-.escola-titulo-dois{
-   padding: 24px 0;
-   font-size: 24px;
-}
+
+.escola-texto-dois{
+    padding: 24px 0; 
+    font-size: 24px;  
+   }
